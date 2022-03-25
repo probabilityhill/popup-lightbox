@@ -1,0 +1,13 @@
+body {
+  background-color: rgba(73,217,255,0.161);
+}
+/* 中央揃え */
+.blue_sky {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+/* 枠を消す場合 */
+#lightbox .lb-image {
+  border: none;
+}
